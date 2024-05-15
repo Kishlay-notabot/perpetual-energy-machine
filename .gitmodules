@@ -1,0 +1,3 @@
+[submodule "src/SAM"]
+	path = src/SAM
+	url = git@github.com:vidarh/SAM.git
