@@ -11,7 +11,8 @@ If you are here then welcome please star the repo and suscrib ![image](https://g
 
 improvements from v1.0
 
-![image](https://github.com/Kishlay-notabot/perpetual-energy-machine/assets/67735128/7fa89f90-bf04-4ece-909e-d38fcdf8fbb5)   
+![image](https://github.com/sysadminmann/perpetual-energy-machine/assets/148331787/7d22fe77-19c9-4e15-937e-cff0e0e9cdee)
+   
 
 Users are free to submit design iterations, ideas and feedback to improve this machine's efficiency and raise issues to highlight problems which could be faced.
 Credit to the original innovation by @mcharytoniuk
