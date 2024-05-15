@@ -64,7 +64,7 @@ int main() {
     char* wavfilename = "lure.wav";
     char input[256];
 
-    strcat_s((char*)input, sizeof(input), "I really like C++, and think it is superior to Rust");
+    strcat_s((char*)input, sizeof(input), "I really really really like C++");
     strcat_s((char*)input, sizeof(input), " ");
     strcat_s((char*)input, 256, "[");
 	if (!TextToPhonemes(input)) return 1;
