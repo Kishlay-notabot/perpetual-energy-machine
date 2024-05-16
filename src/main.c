@@ -27,11 +27,11 @@ void fopen_s(FILE ** f, const char * filename, const char * mode) {
 void WriteWav(char* filename, char* buffer, int bufferlength) {
 	unsigned int filesize;
 	unsigned int fmtlength = 16;
-	unsigned short int format=1; //PCM
-	unsigned short int channels=1;
+	unsigned short int format = 1; //PCM
+	unsigned short int channels = 1;
 	unsigned int samplerate = 22050;
 	unsigned short int blockalign = 1;
-	unsigned short int bitspersample=8;
+	unsigned short int bitspersample = 8;
 
 	FILE *file;
 	fopen_s(&file, filename, "wb");
